@@ -1,2 +1,2 @@
-# Pizzarendelo-alkalmazas
-Github-on létrehozva : Polgár Botond
+## Pizzarendelo-alkalmazas
+# Github-on létrehozva : **Polgár Botond
